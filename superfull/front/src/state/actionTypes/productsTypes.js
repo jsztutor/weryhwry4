@@ -1,0 +1,6 @@
+
+export const PRODUCT_LOAD = "PRODUCT_LOAD"
+export const PRODUCT_SUCCESS = "PRODUCT_SUCCESS"
+export const PRODUCT_ERROR = "PRODUCT_ERROR"
+export const PRODUCT_UPDATE = "PRODUCT_UPDATE"
+
